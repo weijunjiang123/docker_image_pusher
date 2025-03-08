@@ -1,5 +1,5 @@
 nginx
-python3.12
+python
 qdrant
 neo4j
 mysql
